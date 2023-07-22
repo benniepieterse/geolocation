@@ -3,8 +3,8 @@
 				
 # Describing locations at country	 region	 city	 and postal code granularities	
 # respectively				
-102.36.156.0/22,ZA,ZA-CPT,Cape Town	
-2c0f:ea78::/32,ZA,ZA-CPT,Cape Town	
+102.36.156.0/22,ZA,ZA-CPT,Cape Town,	
+2c0f:ea78::/32,ZA,ZA-CPT,Cape Town,	
 # (Experimental) Published geolocation for RIPE conference network prefixes				
 # which change location for each new event.				
 				
